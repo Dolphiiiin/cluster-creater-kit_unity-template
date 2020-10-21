@@ -8,7 +8,7 @@ About
 
 導入
 ---
-Release (https://github.com/Dolphiiiin/cluster-creater-kit_unity-template/releases/)より最新の
+Release (https://github.com/Dolphiiiin/cluster-creater-kit_unity-template/releases/ )より最新の
 `com.unity.template.cluster.tgz`をダウンロードします
 
 **Windows**
