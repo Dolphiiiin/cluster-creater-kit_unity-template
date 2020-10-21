@@ -10,13 +10,14 @@ Unityでcluster Creater Kitのプロジェクトを作成するためのプロ�
 ---
 Release (https://github.com/Dolphiiiin/cluster-creater-kit_unity-template/releases/ )より最新の
 `com.unity.template.cluster.tgz`をダウンロードします
+**ファイルは解凍・リネームしないでください**
 
-**Windows**
+**Windows**  
 ダウンロードしたファイルを
 `C:\Program Files\Unity\Hub\Editor\2019.4.11f1\Editor\Data\Resources\PackageManager\ProjectTemplates`に配置する  
 (管理者権限が必要)
 
-**Mac**
+**Mac**  
 ダウンロードしたファイルを
 `/Applications/Unity/Hub/Editor/2019.4.11f1/Unity.app/Contents/Resources/PackageManager/ProjectTemplates`に配置する  
 
