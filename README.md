@@ -2,7 +2,7 @@
 
 About
 ---
-これはUnityでcluster Creater Kitのプロジェクトを作成するためのプロジェクトテンプレートです
+Unityでcluster Creater Kitのプロジェクトを作成するためのプロジェクトテンプレートです
 
 **これはcluster非公式です**
 
