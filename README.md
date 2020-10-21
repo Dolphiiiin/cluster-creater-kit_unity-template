@@ -32,3 +32,8 @@ Release (https://github.com/Dolphiiiin/cluster-creater-kit_unity-template/releas
 - Unity Hub 2.4.1
 - Unity 2019.4.11f1
 - Windows10 Pro
+
+制作
+Dolphiiiin(https://twitter.com/Dolphiiiin_ )
+
+問題の報告はIssuesまたはtwitterまでお願いします
