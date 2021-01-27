@@ -7,7 +7,7 @@
     }
   ],
   "dependencies": {
-    "mu.cluster.cluster-creator-kit": "1.11.0",
+    "mu.cluster.cluster-creator-kit": "1.11.1",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.postprocessing": "2.2.2",
