@@ -24,7 +24,7 @@ Release (https://github.com/Dolphiiiin/cluster-creater-kit_unity-template/releas
 使用方法
 ---
 - Unity Hubでプロジェクトを新規作成します
-- 右側のテンプレート選択画面で`cluster Creater Kit Template`を選択してプロジェクトを作成します
+- 左側のテンプレート選択画面で`cluster Creater Kit Template`を選択してプロジェクトを作成します
 
 
 その他
