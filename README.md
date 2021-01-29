@@ -38,3 +38,8 @@ Release (https://github.com/Dolphiiiin/cluster-creater-kit_unity-template/releas
 Dolphiiiin(https://twitter.com/Dolphiiiin_ )
 
 問題の報告はIssuesまたはtwitterまでお願いします
+
+
+
+# License
+The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
