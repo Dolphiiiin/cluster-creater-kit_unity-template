@@ -42,4 +42,6 @@ Dolphiiiin(https://twitter.com/Dolphiiiin_ )
 
 
 # License
+THE Software contains Cluster Creator Kit Sample by Cluster, Inc. under lisense of  Creative Commons Attribution 4.0 International.(https://creativecommons.org/licenses/by/4.0/)
+
 The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
