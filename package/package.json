@@ -1,10 +1,10 @@
 {
   "name": "com.unity.template.cluster",
   "displayName": "cluster Creater Kit Template",
-  "version": "1.12.0",
+  "version": "1.12.3",
   "type": "template",
-  "unity": "2019.3",
-  "description": "cluster Creater Kit 1.11.1 (Template by Dolphiiiin)",
+  "unity": "2019.4.22f1",
+  "description": "cluster Creater Kit 1.12.3 (Template by Dolphiiiin)",
   "dependencies": {},
   "repository": {
   }
