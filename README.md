@@ -6,14 +6,6 @@ Unityでcluster Creater Kitのプロジェクトを作成するためのプロ�
 
 **これはcluster非公式です**
 
-## その他インストールされているパッケージ
-
-- ProBuilder `5.0.3`
-- Post Processing `3.0.3`
-- ProGrids `3.0.3-preview.6`
-
-
-
 導入
 ---
 Release (https://github.com/Dolphiiiin/cluster-creater-kit_unity-template/releases/ )より最新の
@@ -22,12 +14,12 @@ Release (https://github.com/Dolphiiiin/cluster-creater-kit_unity-template/releas
 
 **Windows**  
 ダウンロードしたファイルを
-`C:\Program Files\Unity\Hub\Editor\2019.4.11f1\Editor\Data\Resources\PackageManager\ProjectTemplates`に配置する  
+`C:\Program Files\Unity\Hub\Editor\2019.4.22f1\Editor\Data\Resources\PackageManager\ProjectTemplates`に配置する  
 (管理者権限が必要)
 
 **Mac**  
 ダウンロードしたファイルを
-`/Applications/Unity/Hub/Editor/2019.4.11f1/Unity.app/Contents/Resources/PackageManager/ProjectTemplates`に配置する  
+`/Applications/Unity/Hub/Editor/2019.4.22f1/Unity.app/Contents/Resources/PackageManager/ProjectTemplates`に配置する  
 
 使用方法
 ---
@@ -38,7 +30,7 @@ Release (https://github.com/Dolphiiiin/cluster-creater-kit_unity-template/releas
 その他
 ---
 動作確認環境
-- Unity Hub 3.0.0-bata.2
+- Unity Hub 2.4.1
 - Unity 2019.4.22f1
 - Windows10 Pro
 
